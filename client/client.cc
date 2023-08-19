@@ -7,7 +7,6 @@ condition_variable cv;
 void ignore_eof()
 {
     struct termios tty;
-
     tcgetattr(STDIN_FILENO, &tty);
     tty.c_cc[VEOF] = 0;
     tcsetattr(STDIN_FILENO, TCSANOW, &tty);
