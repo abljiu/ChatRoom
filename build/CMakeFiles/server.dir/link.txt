@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/server.dir/server/server.cc.o -o server  -lhiredis -lfmt -ljsoncpp 

@@ -1,4 +1,0 @@
-/home/abljiu/文档/Linux/Plan/Plan7_chatroom/build/CMakeFiles/client.dir
-/home/abljiu/文档/Linux/Plan/Plan7_chatroom/build/CMakeFiles/server.dir
-/home/abljiu/文档/Linux/Plan/Plan7_chatroom/build/CMakeFiles/edit_cache.dir
-/home/abljiu/文档/Linux/Plan/Plan7_chatroom/build/CMakeFiles/rebuild_cache.dir
